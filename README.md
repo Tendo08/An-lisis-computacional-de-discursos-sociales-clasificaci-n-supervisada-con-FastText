@@ -1,0 +1,2 @@
+# An-lisis-computacional-de-discursos-sociales-clasificaci-n-supervisada-con-FastText
+Investigación aplicada desde las ciencias sociales computacionales. Entrenamos un modelo supervisado con FastText para clasificar discursos en redes sociales a partir de una muestra etiquetada manualmente. Incluye limpieza de texto, validación cruzada y aplicación a un corpus no etiquetado para observar patrones discursivos automatizados.
